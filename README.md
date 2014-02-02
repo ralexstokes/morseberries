@@ -5,7 +5,7 @@ Send Morse code signals from an LED controlled by the GPIO pins on a Raspberry P
 ## Usage
     sudo python morse.py $hello_world
 
-where `$hello_world` can be a multi-word phrase consisting of alphanumeric characters and spaces.
+where `$hello_world` can be a multi-word phrase consisting of alphanumeric characters and spaces.  Use of `sudo` is needed for the Raspberry Pi as the GPIO pins are not accessible from user space.
 
 ## Examples
     sudo python morse.py sos
