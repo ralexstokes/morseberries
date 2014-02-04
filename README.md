@@ -2,8 +2,8 @@
 
 Send Morse code signals from an LED controlled by the GPIO pins on a Raspberry Pi.  Adapted from [http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/morse_code/](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/morse_code/)
 
-[](http://alex.stokes.io/media/photo.jpg)
-[](http://alex.stokes.io/media/photo2.jpg)
+![photo of breadboard](http://alex.stokes.io/media/photo.jpg)
+![photo of other side of breakout board](http://alex.stokes.io/media/photo2.jpg)
 
 ## Usage
     sudo python morse.py $hello_world
